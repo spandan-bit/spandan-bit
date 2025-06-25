@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandan-bit&label=Profile%20views&color=0e75b6&style=flat" alt="spandan-bit" /> </p>
 
-- 🔭 I’m currently working on ** Pyhton , Cloud Projects**
+- 🔭 I’m currently working on ** Python , Cloud Projects**
 
 - 🌱 I’m currently learning **Aws , Azure , GCP , Python**
 
