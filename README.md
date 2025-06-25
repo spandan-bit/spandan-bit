@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Spandan</h1>
-<h3 align="center">A passionate frontend developer and Cloud enthusiast from India</h3>
+<h3 align="center">A passionate Full stack Developer , Python Developer and Cloud enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandan-bit&label=Profile%20views&color=0e75b6&style=flat" alt="spandan-bit" /> </p>
 
-- 🔭 I’m currently working on **Cloud Projects**
+- 🔭 I’m currently working on ** Pyhton , Cloud Projects**
 
-- 🌱 I’m currently learning **Aws , Azure , GCP**
+- 🌱 I’m currently learning **Aws , Azure , GCP , Python**
 
 - 👯 I’m looking to collaborate on **Cloud projects**
 
 - 🤝 I’m looking for help with **Cloud**
 
-- 💬 Ask me about **Aws,Html,Css,Javascript,Azure**
+- 💬 Ask me about **Aws,Html,Css,Javascript,Reactjs,Nodejs,MongoDB,Docker,Python**
 
 - 📫 How to reach me **spandandey02@gmail.com**
 
